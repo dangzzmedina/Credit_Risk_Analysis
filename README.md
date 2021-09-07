@@ -21,12 +21,12 @@ The purpose of this analysis is to learn about supervised machine learning. We u
 ** Precision Score: high_risk 1%; low_risk 100%
 ** Recall Score: high_risk 69%; low_risk 40%
 
-*Combination (Over and Under) Sampling
+* Combination (Over and Under) Sampling
 ** Balanced Accuracy Test: 66.0%
 ** Precision Score: high_risk 1%; low_risk 100%
 ** Recall Score: high_risk 75%; low_risk 58%
 
-*Balanced Random Forest Classifier
+* Balanced Random Forest Classifier
 ** Balanced Accuracy Test: 75.0%
 ** Precision Score: high_risk 3%; low_risk 100%
 ** Recall Score: high_risk 63%; low_risk 89%
